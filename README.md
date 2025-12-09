@@ -1,2 +1,0 @@
-# textbook.github.io
-TextBook
